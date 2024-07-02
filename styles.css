@@ -1,0 +1,29 @@
+#main{
+    color: white;
+    background-color: black;
+}
+
+#one{
+    font-size: 48px;
+    color: #0000ff ;
+    font-weight: bolder;
+}
+
+#two{
+    font-size: 36px;
+    color: #8a2ba3;
+    font-weight: bold;
+}
+
+#three{
+    font-size: 24px;
+    color: white;
+    font-weight: lighter;
+}
+
+.cinnabon{
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: teal;
+    font-size: 24px;
+    background-color: red;
+}
