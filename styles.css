@@ -21,9 +21,45 @@
     font-weight: lighter;
 }
 
-.cinnabon{
+#cinnabon{
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    color: teal;
+    color: white;
     font-size: 24px;
-    background-color: red;
+    background-color: black;
+    text-align: center;
+}
+
+#cheesecake{
+    color: white;
+    font-size: 24px;
+    background-color: black;
+    text-align: center;
+
+}
+
+#tater{
+    color: white;
+    font-size: 24px;
+    background-color: black;
+    text-align: center;
+}
+
+#img{
+    display: block;
+    margin: auto;
+}
+
+.head{
+    text-align: center;
+    margin: auto;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol{
+    text-align: center;
+    list-style-position: inside;
 }
